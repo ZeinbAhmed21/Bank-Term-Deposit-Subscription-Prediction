@@ -169,6 +169,6 @@ classification-bank-marketing/
 
 ---
 
-## 👤 Authors
+## 🤝 Contributors
 - Zeinab Ahmed
 - Ibrahim Hamdy
